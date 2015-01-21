@@ -1,0 +1,65 @@
+# Logfile created on 2015-01-21 10:07:27 -0600 by logger.rb/44203
+[01/21/15 10:07:27 -0600 jayne.local (11142)] INFO : Starting the New Relic agent in "development" environment.
+[01/21/15 10:07:27 -0600 jayne.local (11142)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[01/21/15 10:07:27 -0600 jayne.local (11142)] INFO : Reading configuration from config/newrelic.yml
+[01/21/15 10:07:27 -0600 jayne.local (11142)] INFO : Environment: development
+[01/21/15 10:07:27 -0600 jayne.local (11142)] INFO : No known dispatcher detected.
+[01/21/15 10:07:27 -0600 jayne.local (11142)] INFO : Application: My Application (Development)
+[01/21/15 10:07:27 -0600 jayne.local (11142)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[01/21/15 10:07:27 -0600 jayne.local (11142)] INFO : Installing Net instrumentation
+[01/21/15 10:07:27 -0600 jayne.local (11142)] INFO : Installing Sinatra instrumentation
+[01/21/15 10:07:27 -0600 jayne.local (11142)] INFO : Installing deferred Rack instrumentation
+[01/21/15 10:07:27 -0600 jayne.local (11142)] INFO : Finished instrumentation
+[01/21/15 10:07:46 -0600 jayne.local (11151)] INFO : Starting the New Relic agent in "development" environment.
+[01/21/15 10:07:46 -0600 jayne.local (11151)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[01/21/15 10:07:46 -0600 jayne.local (11151)] INFO : Reading configuration from config/newrelic.yml
+[01/21/15 10:07:46 -0600 jayne.local (11151)] INFO : Environment: development
+[01/21/15 10:07:46 -0600 jayne.local (11151)] INFO : No known dispatcher detected.
+[01/21/15 10:07:46 -0600 jayne.local (11151)] INFO : Application: My Application (Development)
+[01/21/15 10:07:46 -0600 jayne.local (11151)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[01/21/15 10:07:46 -0600 jayne.local (11151)] INFO : Installing Net instrumentation
+[01/21/15 10:07:46 -0600 jayne.local (11151)] INFO : Installing Sinatra instrumentation
+[01/21/15 10:07:46 -0600 jayne.local (11151)] INFO : Installing deferred Rack instrumentation
+[01/21/15 10:07:46 -0600 jayne.local (11151)] INFO : Finished instrumentation
+[01/21/15 10:08:05 -0600 jayne.local (11151)] INFO : Doing deferred dependency-detection before Rack startup
+[01/21/15 10:08:05 -0600 jayne.local (11151)] ERROR : Unknown license key
+[01/21/15 10:08:05 -0600 jayne.local (11151)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[01/21/15 10:09:08 -0600 jayne.local (11184)] INFO : Starting the New Relic agent in "development" environment.
+[01/21/15 10:09:08 -0600 jayne.local (11184)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[01/21/15 10:09:08 -0600 jayne.local (11184)] INFO : Reading configuration from config/newrelic.yml
+[01/21/15 10:09:08 -0600 jayne.local (11184)] INFO : Environment: development
+[01/21/15 10:09:08 -0600 jayne.local (11184)] INFO : No known dispatcher detected.
+[01/21/15 10:09:08 -0600 jayne.local (11184)] INFO : Application: My Application (Development)
+[01/21/15 10:09:08 -0600 jayne.local (11184)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[01/21/15 10:09:08 -0600 jayne.local (11184)] INFO : Installing Net instrumentation
+[01/21/15 10:09:08 -0600 jayne.local (11184)] INFO : Installing Sinatra instrumentation
+[01/21/15 10:09:08 -0600 jayne.local (11184)] INFO : Installing deferred Rack instrumentation
+[01/21/15 10:09:08 -0600 jayne.local (11184)] INFO : Finished instrumentation
+[01/21/15 10:09:10 -0600 jayne.local (11184)] INFO : Doing deferred dependency-detection before Rack startup
+[01/21/15 10:09:10 -0600 jayne.local (11184)] ERROR : Unknown license key
+[01/21/15 10:09:10 -0600 jayne.local (11184)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[01/21/15 10:09:40 -0600 jayne.local (11203)] INFO : Starting the New Relic agent in "development" environment.
+[01/21/15 10:09:40 -0600 jayne.local (11203)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[01/21/15 10:09:40 -0600 jayne.local (11203)] INFO : Reading configuration from config/newrelic.yml
+[01/21/15 10:09:40 -0600 jayne.local (11203)] INFO : Environment: development
+[01/21/15 10:09:40 -0600 jayne.local (11203)] INFO : No known dispatcher detected.
+[01/21/15 10:09:40 -0600 jayne.local (11203)] INFO : Application: My Application (Development)
+[01/21/15 10:09:40 -0600 jayne.local (11203)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[01/21/15 10:09:40 -0600 jayne.local (11203)] INFO : Installing Net instrumentation
+[01/21/15 10:09:40 -0600 jayne.local (11203)] INFO : Installing Sinatra instrumentation
+[01/21/15 10:09:40 -0600 jayne.local (11203)] INFO : Installing deferred Rack instrumentation
+[01/21/15 10:09:40 -0600 jayne.local (11203)] INFO : Finished instrumentation
+[01/21/15 10:09:45 -0600 jayne.local (11213)] INFO : Starting the New Relic agent in "development" environment.
+[01/21/15 10:09:45 -0600 jayne.local (11213)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[01/21/15 10:09:45 -0600 jayne.local (11213)] INFO : Reading configuration from config/newrelic.yml
+[01/21/15 10:09:45 -0600 jayne.local (11213)] INFO : Environment: development
+[01/21/15 10:09:45 -0600 jayne.local (11213)] INFO : No known dispatcher detected.
+[01/21/15 10:09:45 -0600 jayne.local (11213)] INFO : Application: My Application (Development)
+[01/21/15 10:09:45 -0600 jayne.local (11213)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[01/21/15 10:09:45 -0600 jayne.local (11213)] INFO : Installing Net instrumentation
+[01/21/15 10:09:45 -0600 jayne.local (11213)] INFO : Installing Sinatra instrumentation
+[01/21/15 10:09:45 -0600 jayne.local (11213)] INFO : Installing deferred Rack instrumentation
+[01/21/15 10:09:45 -0600 jayne.local (11213)] INFO : Finished instrumentation
+[01/21/15 10:09:47 -0600 jayne.local (11213)] INFO : Doing deferred dependency-detection before Rack startup
+[01/21/15 10:09:47 -0600 jayne.local (11213)] ERROR : Unknown license key
+[01/21/15 10:09:47 -0600 jayne.local (11213)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
